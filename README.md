@@ -40,4 +40,3 @@ Method: PUT
 Delete a Project
 URL: /projects/{id}
 Method: DELETE
-Response: 204 No Content
